@@ -1,0 +1,43 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+}
+
+.wrapper{
+    width: 970px;
+    margin:auto;
+    padding:20px;
+}
+
+form{
+    display: inline-block;
+    width: 23%;
+    margin:1%;
+    text-align: center;
+    padding: 20px;
+    border:1px solid silver;
+}
+
+h1{
+    margin-bottom:20px;
+}
+
+.your-gold{
+    display: inline-block;
+    width:100px;
+    padding: 5px;
+    border:1px solid silver;
+}
+
+.activities{
+    height:80px;
+    border:1px solid silver;
+    margin:1%;
+    overflow: scroll;
+}
+
+.act-header{
+    margin:1%;
+}
