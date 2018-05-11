@@ -11,6 +11,18 @@
     padding:20px;
 }
 
+.header p{
+    display: inline-block;
+}
+
+.reset{
+    padding:0px;
+    border:none;
+    margin:0px 0px 0px 10px;
+    vertical-align: top;
+    width:60px;
+}
+
 form{
     display: inline-block;
     width: 23%;
@@ -32,12 +44,25 @@ h1{
 }
 
 .activities{
-    height:80px;
+    height:100px;
     border:1px solid silver;
     margin:1%;
     overflow: scroll;
+    padding:5px;
+}
+
+.activities p{
+    margin:0px;
 }
 
 .act-header{
     margin:1%;
+}
+
+.green{
+    color:#5cb85c;
+}
+
+.red{
+    color:#d9534f;
 }
